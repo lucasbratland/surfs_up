@@ -27,6 +27,6 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 ### Summary of Findings
 Overall the temperatures in the months of June and December are similiar. On average there is only 4 degrees of difference. Even though December has a wider range of temperatures, December's median temperature has a higher frequency than any other temperature by almost double. This would lead me to believe the lows are more outliers and shouldn't influence the decision to open the surf and ice cream shop. 
 
-Before making a final decision I would want to loo kat a couple of other things. 
+Before making a final decision I would want to look at a couple of other things. 
 - I would want to look at the specific weather station data. This would allow us to see if one station has a greater temperature variance between June and December than another. This would help find out if one location is better than another. 
 - I would also want to look at other information that would affect the surfing conditions, such as average wind speed, tide data, and cloud cover. These things could all affect teh beach goers experience and would have impact on sales. 
