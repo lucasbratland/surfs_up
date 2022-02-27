@@ -7,6 +7,16 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 - SoftwareL SQLite, Pythoin, Flask, Jupyter Notebook, VS Code
 
 ## Results
-- COmbined Summary Statistics for June and December Temperatures
+- Combined Summary Statistics for June and December Temperatures
 
 ![Chart](/Resources/stats-summary.PNG)
+
+- June Temperatures Visual (Temperature and Frequency)
+
+![Chart](/Resources/june_plot)
+
+- December Temperatures Visual (Temperature and Frequency)
+
+![Chart](/Resources/dec_plot)
+
+
