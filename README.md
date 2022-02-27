@@ -13,10 +13,10 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 - June Temperatures Visual (Temperature and Frequency)
 
-![Chart](/Resources/june_plot)
+![Chart](/Resources/june_plot.png)
 
 - December Temperatures Visual (Temperature and Frequency)
 
-![Chart](/Resources/dec_plot)
+![Chart](/Resources/dec_plot.png)
 
 
